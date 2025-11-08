@@ -1,0 +1,11 @@
+# Archivos de configuración del IDE (IntelliJ IDEA)
+.idea/
+
+# Directorios de salida de compilación de Java
+/out/
+/target/  # Si usas Maven
+/build/   # Si usas Gradle
+*.class
+
+# Archivos de logs y temporales
+*.log
