@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Logical-Operators" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MethodsOfTheClassMath" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ternary-Operator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Creating-Objects" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Typecasting" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
