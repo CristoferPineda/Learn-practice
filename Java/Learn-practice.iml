@@ -11,6 +11,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Ternary-Operator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Creating-Objects" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Typecasting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Loop-DoWhile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Loop-For" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Loop-While" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Statament Switch-Case" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
