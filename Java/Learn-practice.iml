@@ -15,6 +15,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Loop-For" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Loop-While" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Statament Switch-Case" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Loop-For-Each" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Two Dimensional Arrays" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
