@@ -22,7 +22,7 @@ Example
 Input array: [1, -1, 0, 4, 6, 10, 15, 25]
 Output array: [false, false, true, false, false, true, false, true] */
 
-
+    //Creamos el metodo getSumCheckArray
     public static boolean[] getSumCheckArray(int[] array){
 
         if(array == null){
@@ -43,6 +43,6 @@ Output array: [false, false, true, false, false, true, false, true] */
         }
         return result;
 
-        //throw new UnsupportedOperationException();
+        //throw new UnsupportedOperationException();..Esta linea de codigo solo se utiliza si no hay un retrn en el programa , basicamente
     }
 }
